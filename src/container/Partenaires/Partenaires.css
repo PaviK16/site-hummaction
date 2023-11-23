@@ -1,0 +1,10 @@
+.partner-link {
+    color: var(--color-darkblue);
+    border-bottom: 1px solid transparent;
+    transition: color 0.3s, border-bottom 0.3s;
+  }
+  
+  .partner-link:hover {
+    color: var(--color-darkblue);
+    border-bottom: 1px solid var(--color-darkblue);
+  }

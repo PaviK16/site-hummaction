@@ -1,0 +1,16 @@
+.app__header {
+    background-color: var(--color-white);
+}
+
+.p__opensans {
+    font-family: var(--font-alt);
+    color: var(--color-blue);
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    line-height: 28px;
+    font-size: 18px;
+  }
+
+.app__header-img {
+    width: 70%;
+}
